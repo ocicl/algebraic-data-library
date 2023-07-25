@@ -1,0 +1,10 @@
+* algebraic-data-library
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tarballs-are-good/algebraic-data-library.git   |
+| commit  | 4ec6a85  |
+| systems | algebraic-data-library |
+|---------+-------------------------------------------|
+
